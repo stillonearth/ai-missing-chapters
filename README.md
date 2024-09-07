@@ -1,2 +1,2 @@
 # ai-missing-chapters
-Somw chapters I missed in AIl; 2024 edition
+AI missing chapters, 2024 recap
